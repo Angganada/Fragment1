@@ -1,7 +1,7 @@
 # Fragment1
 
-![screenshot1]()
-![screenshot2]()
+![screenshot1](https://github.com/Angganada/Fragment1/blob/master/f1.png)
+![screenshot2](https://github.com/Angganada/Fragment1/blob/master/f1-.png)
 
 ###Nama  : Anggana Duhita Apsari
 ###Kelas : XI RPL 2
